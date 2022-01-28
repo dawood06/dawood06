@@ -30,13 +30,3 @@
 ![Photoshop](https://img.shields.io/badge/-Photoshop-333333?style=flat&logo=adobe-photoshop)&nbsp;
 ![Figma](https://img.shields.io/badge/-Figma-333333?style=flat&logo=figma)&nbsp;
 
-
-### ⚙️ &nbsp;GitHub Analytics
-
-<p align="center">
-<a href="https://github.com/dawood06">
-  <img height="180em" width="400rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dawood06&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dawood06&layout=compact&langs_count=8&theme=react"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dawood06&&theme=react"  alt="dawood6" />
-</a>
-</p>
