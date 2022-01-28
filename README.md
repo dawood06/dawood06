@@ -5,7 +5,7 @@
 💡 &nbsp;I like to explore new technologies and develop software solutions and quick hacks.\
 🎓 &nbsp;I'm currently working as an Software Engineer at Zenveus.\
 ✍️ &nbsp;In my free time, I pursue Coding and Gaming as hobbies/side hustles.\
-✉️ &nbsp;You can shoot me an email at dawood.sadiq@zenveus.com! I'll try to respond as soon as I can.\
+✉️ &nbsp;You can shoot me an email at dawood.sadiq@zenveus.com! I'll try to respond as soon as I can.
               
 ### 🛠 &nbsp;Tech Stack
 
@@ -35,8 +35,8 @@
 
 <p align="center">
 <a href="https://github.com/dawood06">
-  <img height="180em" width="400rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dawood6&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
-  <img height="180em" width="400rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dawood6&layout=compact&langs_count=8&theme=react"/>
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dawood6&&theme=react"  alt="dawood6" />
+  <img height="180em" width="400rem" src="https://github-readme-stats-eight-theta.vercel.app/api?username=dawood06&show_icons=true&theme=react&include_all_commits=true&count_private=true"/>
+  <img height="180em" width="400rem" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=dawood06&layout=compact&langs_count=8&theme=react"/>
+  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=dawood06&&theme=react"  alt="dawood6" />
 </a>
 </p>
